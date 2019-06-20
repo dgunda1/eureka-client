@@ -3,7 +3,7 @@
     <groupId>org.eurekaclinical</groupId>
     <artifactId>eureka-client</artifactId>
     <packaging>jar</packaging>
-    <version>5.0-Alpha-5</version>
+    <version>5.0-Alpha-6-SNAPSHOT</version>
     <name>Eureka! Client</name>
     <description>Client for accessing Eureka!'s web services.
     </description>
@@ -21,7 +21,7 @@
         <connection>scm:git:https://github.com/eurekaclinical/eureka-client.git</connection>
         <developerConnection>scm:git:https://github.com/eurekaclinical/eureka-client.git</developerConnection>
         <url>https://github.com/eurekaclinical/eureka-client.git</url>
-        <tag>eureka-client-5.0-Alpha-5</tag>
+        <tag>HEAD</tag>
     </scm>
 	
     <issueManagement>
